@@ -1,0 +1,32 @@
+{
+  "price": 0.5,
+  "number": 10,
+  "symbol": "NB",
+  "sellerFeeBasisPoints": 500,
+  "gatekeeper": null,
+  "solTreasuryAccount": null,
+  "splTokenAccount": "B9p2vGYzkKnD1hjcH5HXYSgPEQeuCFEbYhfdMiZr9RNp",
+  "splToken": "2cEjjF2vzpiY4xkAQAnctbjgWwWBgrBf1vwUA5SLdbtd",
+  "goLiveDate": "2022-07-24T00:00:00Z",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "storage": "arweave-sol",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "nftStorageKey": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "isMutable": true,
+  "noMutable": false,
+  "isSequential": false,
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "retainAuthority": true,
+  "creators": [
+    {
+      "address": "AhykiFJNgmnF3MdS3cGVe4wG8GVz3H5gsmtxNoj2VpN2",
+      "share": 100
+    }
+  ]
+}
